@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/do-samba-hostel-management/static/css/main.daaab7aa.chunk.css",
+    "main.js": "/do-samba-hostel-management/static/js/main.a2e2ebbc.chunk.js",
+    "main.js.map": "/do-samba-hostel-management/static/js/main.a2e2ebbc.chunk.js.map",
+    "runtime-main.js": "/do-samba-hostel-management/static/js/runtime-main.4e893d48.js",
+    "runtime-main.js.map": "/do-samba-hostel-management/static/js/runtime-main.4e893d48.js.map",
+    "static/js/2.4010957d.chunk.js": "/do-samba-hostel-management/static/js/2.4010957d.chunk.js",
+    "static/js/2.4010957d.chunk.js.map": "/do-samba-hostel-management/static/js/2.4010957d.chunk.js.map",
+    "static/js/3.29964dfa.chunk.js": "/do-samba-hostel-management/static/js/3.29964dfa.chunk.js",
+    "static/js/3.29964dfa.chunk.js.map": "/do-samba-hostel-management/static/js/3.29964dfa.chunk.js.map",
+    "index.html": "/do-samba-hostel-management/index.html",
+    "static/css/main.daaab7aa.chunk.css.map": "/do-samba-hostel-management/static/css/main.daaab7aa.chunk.css.map",
+    "static/js/2.4010957d.chunk.js.LICENSE.txt": "/do-samba-hostel-management/static/js/2.4010957d.chunk.js.LICENSE.txt",
+    "static/media/LogoCompleta.7e83e7b5.png": "/do-samba-hostel-management/static/media/LogoCompleta.7e83e7b5.png",
+    "static/media/almir.395d6fe7.jpg": "/do-samba-hostel-management/static/media/almir.395d6fe7.jpg",
+    "static/media/beth.e3ba11af.jpg": "/do-samba-hostel-management/static/media/beth.e3ba11af.jpg",
+    "static/media/cartola.be2938db.jpg": "/do-samba-hostel-management/static/media/cartola.be2938db.jpg",
+    "static/media/chicoBuarque.17819e9f.jpg": "/do-samba-hostel-management/static/media/chicoBuarque.17819e9f.jpg",
+    "static/media/hAdelson.c7355325.jpeg": "/do-samba-hostel-management/static/media/hAdelson.c7355325.jpeg",
+    "static/media/hAlex.ad83a68b.jpeg": "/do-samba-hostel-management/static/media/hAlex.ad83a68b.jpeg",
+    "static/media/hFabio.d3a06e1c.jpeg": "/do-samba-hostel-management/static/media/hFabio.d3a06e1c.jpeg",
+    "static/media/hHiago.c80dcfe1.jpeg": "/do-samba-hostel-management/static/media/hHiago.c80dcfe1.jpeg",
+    "static/media/hMarcelo.2ba88fd9.jpeg": "/do-samba-hostel-management/static/media/hMarcelo.2ba88fd9.jpeg",
+    "static/media/hMarceloAu.554f34bb.jpeg": "/do-samba-hostel-management/static/media/hMarceloAu.554f34bb.jpeg",
+    "static/media/hMatheus.5a670d4c.jpeg": "/do-samba-hostel-management/static/media/hMatheus.5a670d4c.jpeg",
+    "static/media/hSylvio.36b5495e.jpeg": "/do-samba-hostel-management/static/media/hSylvio.36b5495e.jpeg",
+    "static/media/joao.7b69f624.jpg": "/do-samba-hostel-management/static/media/joao.7b69f624.jpg",
+    "static/media/jovelina.be59fcc8.jpg": "/do-samba-hostel-management/static/media/jovelina.be59fcc8.jpg",
+    "static/media/noelRosa.20cd076c.jpg": "/do-samba-hostel-management/static/media/noelRosa.20cd076c.jpg",
+    "static/media/paulinho.8a9bdc9b.jpg": "/do-samba-hostel-management/static/media/paulinho.8a9bdc9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e893d48.js",
+    "static/js/2.4010957d.chunk.js",
+    "static/css/main.daaab7aa.chunk.css",
+    "static/js/main.a2e2ebbc.chunk.js"
+  ]
+}
